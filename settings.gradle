@@ -1,1 +1,1 @@
-include ':ntag21x'
+include ':commandfamily-ntag21x'
